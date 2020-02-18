@@ -1,0 +1,38 @@
+   Key Legend:
+                -- = current version
+                -wor: = working on this ver
+                 <-x_x-> = bug
+                 |x_x| = bug fixed
+                 <-o_o-> = design issue
+                 |o_o| = design issue fixed
+
+
+                     ~Updating to repo~
+               | --------------------------- |
+               | v# : Short Version Title    |
+               | Description: v# description |
+               | --------------------------- |
+
+----------------------------    ----------------------------   ------------------------- ------------------------------
+
+--v0 Monster Job Search Terminal Respo Created: respo created to be used as a demo for presentation @ college.
+			Basic summary of using this program:
+				- No need to login onto the site, just type and search
+				- No pop up ads, or unwanted info, just straight the the point
+				- Quick list, to see how many of job/careers you are looking for are that
+					one type of job or how many are available in your area.
+				- Good introduction to python, pycharm, and coding in general
+
+                * pip installed the following
+                    -> requests
+                    -> bs4
+
+
+
+
+   ______      __                    _    ___ ____                     
+  / ______  __/ /_  ____  _________ | |  / (_/ / ____ _____ ____  _____
+ / /   / / / / __ \/ __ \/ ___/ __ `| | / / / / / __ `/ __ `/ _ \/ ___/
+/ /___/ /_/ / /_/ / /_/ / /  / /_/ /| |/ / / / / /_/ / /_/ /  __/ /    
+\____/\__, /_.___/\____/_/   \__, / |___/_/_/_/\__,_/\__, /\___/_/     
+     /____/                 /____/                  /____/             
