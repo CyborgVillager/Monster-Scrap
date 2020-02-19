@@ -30,12 +30,18 @@
 
 v1 Testing Macro Font: testing Macro Fonts
 
---v2 Macro Font Found: Choosen Macro Font -> Standard
+v2 Macro Font Found: Choosen Macro Font -> Standard
                         link for your own : http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
 
-   ____      _                   __     ___ _ _
+--v3 Comment: added ** to show either author/reviewers of the project will include this onto future projects as well.
+
+Authors:
+*********   *********   *********   *********   *********   *********   *********   *********
+  ____      _                   __     ___ _ _
   / ____   _| |__   ___  _ __ __ \ \   / (_| | | __ _  __ _  ___ _ __
  | |  | | | | '_ \ / _ \| '__/ _` \ \ / /| | | |/ _` |/ _` |/ _ | '__|
  | |__| |_| | |_) | (_) | | | (_| |\ V / | | | | (_| | (_| |  __| |
   \____\__, |_.__/ \___/|_|  \__, | \_/  |_|_|_|\__,_|\__, |\___|_|
        |___/                 |___/                    |___/
+
+*********   *********   *********   *********   *********   *********   *********   ********
