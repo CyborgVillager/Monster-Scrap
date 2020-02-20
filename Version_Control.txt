@@ -15,7 +15,7 @@
 
 ----------------------------    ----------------------------   ------------------------- ------------------------------
 
---v0 Monster Job Search Terminal Respo Created: respo created to be used as a demo for presentation @ college.
+v0 Monster Job Search Terminal Respo Created: respo created to be used as a demo for presentation @ college.
 			Basic summary of using this program:
 				- No need to login onto the site, just type and search
 				- No pop up ads, or unwanted info, just straight the the point
@@ -44,9 +44,10 @@ v6 Updated README.md: included link to tutorial
 
 v7 Edit README.md: edit README.md on giving a bit more descriptive info about the tutorial
 
---v8 Updated Wiki : updated wiki to include the documents & outline folder
+v8 Updated Wiki : updated wiki to include the documents & outline folder
                         - added authors img logo for the wiki as well.
 
+                --v8.5 Fixed Version_Control: fixed version control info. regarding current versions from --v0 to --v8.5
 Authors:
 *********   *********   *********   *********   *********   *********   *********   *********
   ____      _                   __     ___ _ _
