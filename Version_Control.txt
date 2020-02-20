@@ -40,7 +40,9 @@ v4 Images & Wiki: making wiki & images to help the class once they check the cod
 v5 Documents: added documents folder that contains powerpoint & outline doc
                     to make it easier accessing it once presentation day comes
 
---v6 Updated README.md: included link to tutorial
+v6 Updated README.md: included link to tutorial
+
+--v7 Edit README.md: edit README.md on giving a bit more descriptive info about the tutorial
 
 Authors:
 *********   *********   *********   *********   *********   *********   *********   *********

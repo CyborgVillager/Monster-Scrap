@@ -3,6 +3,6 @@
  
  - Visual -> terminal
  
- [Tutorial](https://github.com/CyborgVillager/Monster-Scrap/wiki/Python-Web-Scrapping-Tutorial)
+ [Tutorial on Accessing/Running the Program](https://github.com/CyborgVillager/Monster-Scrap/wiki/Python-Web-Scrapping-Tutorial)
  
 
