@@ -35,7 +35,10 @@ v2 Macro Font Found: Choosen Macro Font -> Standard
 
 v3 Comment: added ** to show either author/owner/reviewers of the project will include this onto future projects as well.
 
---v4 Images & Wiki: making wiki & images to help the class once they check the code.
+v4 Images & Wiki: making wiki & images to help the class once they check the code.
+
+--v5 Documents: added documents folder that contains powerpoint & outline doc
+                    to make it easier accessing it once presentation day comes
 
 Authors:
 *********   *********   *********   *********   *********   *********   *********   *********
