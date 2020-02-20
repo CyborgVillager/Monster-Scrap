@@ -42,7 +42,10 @@ v5 Documents: added documents folder that contains powerpoint & outline doc
 
 v6 Updated README.md: included link to tutorial
 
---v7 Edit README.md: edit README.md on giving a bit more descriptive info about the tutorial
+v7 Edit README.md: edit README.md on giving a bit more descriptive info about the tutorial
+
+--v8 Updated Wiki : updated wiki to include the documents & outline folder
+                        - added authors img logo for the wiki as well.
 
 Authors:
 *********   *********   *********   *********   *********   *********   *********   *********
