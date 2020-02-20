@@ -33,7 +33,9 @@ v1 Testing Macro Font: testing Macro Fonts
 v2 Macro Font Found: Choosen Macro Font -> Standard
                         link for your own : http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
 
---v3 Comment: added ** to show either author/owner/reviewers of the project will include this onto future projects as well.
+v3 Comment: added ** to show either author/owner/reviewers of the project will include this onto future projects as well.
+
+--v4 Images & Wiki: making wiki & images to help the class once they check the code.
 
 Authors:
 *********   *********   *********   *********   *********   *********   *********   *********
