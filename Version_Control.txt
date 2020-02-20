@@ -37,8 +37,10 @@ v3 Comment: added ** to show either author/owner/reviewers of the project will i
 
 v4 Images & Wiki: making wiki & images to help the class once they check the code.
 
---v5 Documents: added documents folder that contains powerpoint & outline doc
+v5 Documents: added documents folder that contains powerpoint & outline doc
                     to make it easier accessing it once presentation day comes
+
+--v6 Updated README.md: included link to tutorial
 
 Authors:
 *********   *********   *********   *********   *********   *********   *********   *********
