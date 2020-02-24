@@ -47,7 +47,10 @@ v7 Edit README.md: edit README.md on giving a bit more descriptive info about th
 v8 Updated Wiki : updated wiki to include the documents & outline folder
                         - added authors img logo for the wiki as well.
 
-                --v8.5 Fixed Version_Control: fixed version control info. regarding current versions from --v0 to --v8.5
+v8.5 Fixed Version_Control: fixed version control info. regarding current versions from --v0 to --v8.5
+
+--v9 Updated PowerPoint: Deleted Buffer slides, now more concise
+
 Authors:
 *********   *********   *********   *********   *********   *********   *********   *********
   ____      _                   __     ___ _ _
